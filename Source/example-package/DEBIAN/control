@@ -1,0 +1,8 @@
+Package: example-package
+Description: Example package to illustrate the package manager
+Version: 2025.01.13
+Priority: optional
+Maintainer: SegfaultCreator
+Section: devel
+Architecture: all
+Depends: vim

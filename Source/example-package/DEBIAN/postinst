@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Stuff to do after install
+
+exit 0

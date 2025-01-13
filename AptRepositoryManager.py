@@ -25,6 +25,9 @@ def main():
 
     # Ensure the destination directory exists
     os.makedirs(build_dir, exist_ok=True)
+    
+    # Ensure the repository directory exists
+    os.makedirs(repository_dir, exist_ok=True)
 
     # List all subdirectories in the source directory
     package_dirs = [
